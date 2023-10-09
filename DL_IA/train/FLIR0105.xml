@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>FLIR0105.jpg</filename>
+	<path>C:\Users\paart\DL_IA\train\FLIR0105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fault</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>146</ymin>
+			<xmax>303</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
